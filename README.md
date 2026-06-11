@@ -29,3 +29,31 @@ It provides system information, network utilities, and basic diagnostic tools in
 git clone https://github.com/lustdev927-666/lust-darV-.git
 cd LUST-DAR
 chmod +x lust-dar
+
+USAGE
+
+Run the tool:
+
+Bash
+./lust-dar
+Or if installed globally:
+Bash
+lust-dar
+
+REQUIREMENTS
+Bash
+pkg install git curl dnsutils -y
+
+UPDATE PLAN
+V1 → Basic CLI tool
+V2 → UI improvements + more tools
+V3 → Auto-update system + advanced features
+STATUS
+PROJECT: ACTIVE
+
+MAINTENANCE: ONGOING
+
+VERSION: V1
+
+AUTHOR
+lustdev927-666
