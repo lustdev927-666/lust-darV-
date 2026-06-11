@@ -1,30 +1,58 @@
-:::writing{id="48291" variant="document"}
-LUST DAR
-Advanced Termux Security & Network Tool
-DESCRIPTION
-LUST DAR is a lightweight terminal tool built for Termux.
-It provides system information, network utilities, and basic security checks in a simple CLI interface.
-FEATURES
-System Information (Kernel, CPU, Storage)
-Network Information (IP, Interfaces)
-Public IP Checker
-DNS Lookup
-Connection Test (Ping)
-File Hash Verification (SHA256)
-Process Viewer
-INSTALLATION
+:::writing{id="91834" variant="document"}
+💀 LUST DAR
+
+██╗     ██╗   ██╗███████╗████████╗
+██║     ██║   ██║██╔════╝╚══██╔══╝
+██║     ██║   ██║███████╗   ██║
+██║     ██║   ██║╚════██║   ██║
+███████╗╚██████╔╝███████║   ██║
+╚══════╝ ╚═════╝ ╚══════╝   ╚═╝
+TERMINAL SECURITY TOOL • TERMUX EDITION
+// ABOUT
+LUST DAR is a lightweight terminal-based tool built for Termux.
+It focuses on system info, network analysis, and basic diagnostic utilities in a clean CLI interface.
+// FEATURES
+Bash
+[✓] System Information
+[✓] Network Scanner
+[✓] Public IP Checker
+[✓] DNS Lookup
+[✓] Connection Tester
+[✓] File Hash Validator
+[✓] Process Monitor
+// INSTALL
 Bash
 git clone https://github.com/lustdev927-666/lust-darV-.git
 cd LUST-DAR
 chmod +x lust-dar
 ./lust-dar
-USAGE
-After installation, simply run:
+// RUN
 Bash
 lust-dar
-UPDATES / ROADMAP
-V1 - Current Release
-Basic system tools
+// UPDATE LOG
+[V1] INITIAL RELEASE
+Core CLI system
+Basic network tools
+Simple terminal UI
+[V2] IN PROGRESS
+UI redesign (cleaner interface)
+Performance improvements
+More network modules
+Better error handling
+[V3] PLANNED
+Interactive dashboard
+Auto update system (git pull)
+Plugin support system
+Advanced network tools
+// STATUS
+Plain text
+SYSTEM: ACTIVE
+PROJECT: UNDER DEVELOPMENT
+UPDATES: ONGOING
+// AUTHOR
+
+created by: lustdev927-666
+:::Basic system tools
 Network utilities
 CLI interface
 V2 (Coming Soon)
