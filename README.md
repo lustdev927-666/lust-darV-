@@ -1,4 +1,4 @@
-# ██╗     ██╗   ██╗███████╗████████╗
+██╗     ██╗   ██╗███████╗████████╗
 ██║     ██║   ██║██╔════╝╚══██╔══╝
 ██║     ██║   ██║███████╗   ██║
 ██║     ██║   ██║╚════██║   ██║
@@ -64,3 +64,11 @@ VERSION: V1
 
 AUTHOR
 lustdev927-666
+
+
+
+## Resume
+git clone https://github.com/lustdev927-666/lust-darV-.git
+cd lust-darV-
+chmod +x lust-dar
+./lust-dar
